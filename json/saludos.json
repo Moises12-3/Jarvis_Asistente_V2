@@ -1,0 +1,32 @@
+{
+  "mañana": [
+    { "id": 1, "texto": "¡Buenos días! ¿Cómo puedo ayudarte?" },
+    { "id": 2, "texto": "¡Hola! Que tengas un excelente día." },
+    { "id": 3, "texto": "¡Muy buenos días! ¿En qué te puedo asistir?" },
+    { "id": 4, "texto": "¡Feliz mañana! Estoy aquí para ayudarte." },
+    { "id": 5, "texto": "¡Hola, buenos días! ¿Qué necesitas hoy?" },
+    { "id": 6, "texto": "¡Muy buenos días! ¿En qué puedo colaborarte?" },
+    { "id": 7, "texto": "¡Buen día! Espero que tengas una jornada productiva." },
+    { "id": 8, "texto": "¡Buen día! Soy Jarvis, tu asistente virtual en que puedo ayudarte." }
+  ],
+  "tarde": [
+    { "id": 1, "texto": "¡Buenas tardes! ¿En qué puedo ayudarte?" },
+    { "id": 2, "texto": "¡Hola! Espero que estés teniendo una buena tarde." },
+    { "id": 3, "texto": "¡Buenas tardes! ¿Qué necesitas?" },
+    { "id": 4, "texto": "¡Muy buenas tardes! ¿Cómo puedo asistirte?" },
+    { "id": 5, "texto": "¡Hola! Estoy disponible para ayudarte esta tarde." },
+    { "id": 6, "texto": "¡Buenas tardes! ¿En qué puedo colaborarte?" },
+    { "id": 7, "texto": "¡Feliz tarde! Aquí estoy para lo que necesites." },
+    { "id": 8, "texto": "¡Buenas tardes! Soy Jarvis, tu asistente virtual en que puedo ayudarte." }
+  ],
+  "noche": [
+    { "id": 1, "texto": "¡Buenas noches! ¿En qué puedo ayudarte?" },
+    { "id": 2, "texto": "¡Hola! Que tengas una buena noche." },
+    { "id": 3, "texto": "¡Muy buenas noches! ¿Cómo te puedo asistir?" },
+    { "id": 4, "texto": "¡Feliz noche! ¿En qué puedo servirte?" },
+    { "id": 5, "texto": "¡Buenas noches! ¿Qué necesitas antes de descansar?" },
+    { "id": 6, "texto": "¡Hola! Espero que estés terminando bien tu día." },
+    { "id": 7, "texto": "¡Muy buenas noches! Aquí estoy para ayudarte." },
+    { "id": 8, "texto": "¡Buenas noches! Soy Jarvis, tu asistente virtual en que puedo ayudarte." }
+  ]
+}

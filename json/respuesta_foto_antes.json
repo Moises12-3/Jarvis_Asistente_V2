@@ -1,0 +1,17 @@
+[
+  {"id":1, "texto":"Preparando para tomar la foto..."},
+  {"id":2, "texto":"Listo para capturar tu imagen."},
+  {"id":3, "texto":"Activando la cámara, por favor espera..."},
+  {"id":4, "texto":"Vamos a sacar una foto, un momento."},
+  {"id":5, "texto":"Ajustando la cámara para la foto."},
+  {"id":6, "texto":"Casi listo, preparando la captura."},
+  {"id":7, "texto":"Enfocando para una buena imagen."},
+  {"id":8, "texto":"Listo, sólo un instante para tomar la foto."},
+  {"id":9, "texto":"Prepara tu mejor sonrisa, tomando foto."},
+  {"id":10, "texto":"La cámara está lista, sólo espera un momento."},
+  {"id":11, "texto":"Iniciando proceso para capturar la imagen."},
+  {"id":12, "texto":"Por favor, mantente quieto mientras tomo la foto."},
+  {"id":13, "texto":"La cámara se está activando para ti."},
+  {"id":14, "texto":"Foto en proceso, un momento por favor."},
+  {"id":15, "texto":"Preparando todo para capturar tu imagen."}
+]

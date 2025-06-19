@@ -1,0 +1,17 @@
+[
+  {"id":1, "texto":"Se ha tomado una foto correctamente."},
+  {"id":2, "texto":"Foto capturada con éxito."},
+  {"id":3, "texto":"Imagen guardada satisfactoriamente."},
+  {"id":4, "texto":"Tu foto ya está lista."},
+  {"id":5, "texto":"La foto se guardó sin problemas."},
+  {"id":6, "texto":"Captura de imagen exitosa."},
+  {"id":7, "texto":"Foto almacenada correctamente."},
+  {"id":8, "texto":"¡Foto tomada y lista para usar!"}, 
+  {"id":9, "texto":"Imagen registrada con éxito."},
+  {"id":10, "texto":"La captura fue realizada correctamente."},
+  {"id":11, "texto":"Foto guardada y disponible ahora."},
+  {"id":12, "texto":"Tu imagen fue capturada correctamente."},
+  {"id":13, "texto":"¡Foto guardada con éxito!"},
+  {"id":14, "texto":"La imagen fue tomada y almacenada."},
+  {"id":15, "texto":"Foto capturada y guardada sin inconvenientes."}
+]
